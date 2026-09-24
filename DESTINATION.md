@@ -1,4 +1,7 @@
-**[The Rise of the New Right]{.underline}**
+---
+title: The Rise of the New Right
+author: Justin Brown
+---
 
 The Long New Right was the shift in conservative politics where the Republican Party increasingly became more right wing as time went on starting in the 1950s during the Second Red Scare with Senator Joseph McCarthy in what could be called the First Generation of the New Right. But it was the Presidential Campaign of Barry Goldwater during the mid 1960s that would end up bringing the New Right to new heights, with activists and organizations like the John Burch Society fueling right wing politics by the 21st century, compared to the more moderate right wing that was in power before the 1950s. Through Goldwater's campaign, he would use tactics such as focusing on right wing activism against certain social issues at the time such as civil rights that would later on be joined with anti-LGBTQ and anti-feminism used by future Republican politicians, as well as right wing political groups, which would play a huge rule in contributing the rise of Donald Trump as both the 45th and 47th president of the United States. Through the powerbase created by both past and current Republicans and right wing activists, Trump winning the 2016 election would end up seeing conservative efforts in the new right come to fruition, as his 1st administration, as well as his 2nd administration, would not only grant their wishes, but continue pulling the right even further down the right compared to his predecessors like George H.W. Bush and Ronald Reagan.
 
