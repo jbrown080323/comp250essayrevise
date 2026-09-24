@@ -2,7 +2,9 @@
 title: The Rise of the New Right
 author: Justin Brown
 abstract: |
-The New Right wing movement in the United States has been a steadily growing poltical movement over the course of both the 20th and 21st centuries, starting at the end of WWII and the Second Red Scare during the 1950s, coenciding with the various New Left groups and movements that began around the same time. Through the use of key right wing poltical figures, and political organizations, the New Right would create the road that would lead to Donald Trump becoming president twice in both 2016 and 2024, as well as the current divided poltical landscape within the United States.        
+The New Right wing movement in the United States has been a steadily growing poltical movement over the course of both the 20th and 21st centuries, starting at the end of WWII and the Second Red Scare during the 1950s, coenciding with the various New Left groups and movements that began around the same time. Through the use of key right wing poltical figures, and political organizations, the New Right would create the road that would lead to Donald Trump becoming president twice in both 2016 and 2024, as well as the current divided poltical landscape within the United States.
+
+...        
 ---
 # Introduction
 
