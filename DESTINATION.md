@@ -16,7 +16,7 @@ But it was the Presidential Campaign of Barry Goldwater during the mid 1960s tha
 
 # Part 1: Beginnings of the New Right
 
-The Long New Right began with Joseph McCarthy\'s attacks on supposed communists during the Second Red Scare, where McCarthy waged a vicious fight against supposed communists infiltrating the U.S." which was around the time William F. Buckley Jr was making his mark in history.
+The Long New Right began with Joseph McCarthy's attacks on supposed communists during the Second Red Scare, where McCarthy waged a vicious fight against supposed communists infiltrating the U.S." which was around the time William F. Buckley Jr was making his mark in history.
  Buckley had been a supporter of McCarthy's actions, along with L. Brent Bozell. 
 They both had coauthored various speeches for McCarthy, but amongst criticism of McCarthy's methods, they coauthored a book defending McCarthyism.
  The book, "McCarthy and His Enemies, offered a more full-throated case against McCarthy's critics than for McCarthy."(Schlozman and Rosenfeld,150).
