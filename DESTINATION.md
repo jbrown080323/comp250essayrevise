@@ -44,9 +44,13 @@ This was only increased after Bush's 1990 deal with Democrats to raise taxes, wh
  Despite this, after Bush lost to Clinton in the 90s, the New Right continued to gain victories in the 21st century like getting Donald Trump to win the presidential election twice largely through Trump " soft-pedaling the Court Conservatives' favorite nostrums while pushing right ward on the very fear of racial and cultural dispossession."(Schlozman and Rosenfeld,180). 
 By taking advantage of the foundations laid by the many before him, Trump managed to become the center of both the Republican party, and Republican voters.
 
+# Conclusion
+
 The Long New Right's history is fairly recent, with it beginning in the early 20th century.
  But despite this, through the actions of many important conservative figures, it gradually evolved to the state it's in now, where Donald Trump has entered office for the second time. 
 It was through the work of many Republican politicians, activists, and organizations that the Long New Right overtook traditional republicans as the majority in the Republican party and brought both Trump administrations to power in both 2016 and 2024, which has continued the work brought on by the many conservative movements that are still active to this day.
+
+# Bibliography
 
 [Works Cited]{.underline}
 
