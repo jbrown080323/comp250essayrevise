@@ -1,0 +1,47 @@
+[
+	{
+		"id": "http://zotero.org/users/local/Qr3klCSG/items/2DWVAQDZ",
+		"type": "book",
+		"title": "Voices of the American Past: Documents in U.S. History",
+		"author": [
+			{
+				"family": "Hyser",
+				"given": "Raymond M."
+			}
+		],
+		"original-date": {
+			"date-parts": [
+				[
+					"2004",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Qr3klCSG/items/Z3XTPY5Z",
+		"type": "book",
+		"number-of-pages": "448",
+		"title": "The Hollow Parties: The Many Pasts and Disordered Present of American Party Politics",
+		"author": [
+			{
+				"family": "Schlozman",
+				"given": "Daniel"
+			},
+			{
+				"family": "Rosenfeld",
+				"given": "Sam"
+			}
+		],
+		"original-date": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					7
+				]
+			]
+		}
+	}
+]
