@@ -27,10 +27,10 @@ These paranoid beliefs were echoed by many, especially when New Left organizatio
 
 # Part 2: The Growth
 
-Conservatives would become further right with the rise of Barry Goldwater in the 1960s, signaling the beginnings of the Second Generation of the New Right. 
+With the paranoia becoming more widespread,conservatives would become further right with the rise of Barry Goldwater in the 1960s, signaling the beginnings of the Second Generation of the New Right. 
 Despite Goldwater losing both the 1960 and 1964 elections, it did not stop him from his hardline stance of both anti- civil rights and anti-organized labor. 
 Even long after his death, his popularity amongst the growing New Right brought "legions of activists who would power conservatism for decades,"(Schlozman and Rosenfeld, 153).
-On a greater scale, many hard-right groups at the time supported Goldwater, seeing him as a symbol of their efforts for power, with even Robert Welch offering his support. Goldwater used social issues such as the 1964 Civil Rights act, which he was opposed to, a huge talking point for him, and this would be copied by many others later on long after his death on many New Left issues such as feminism, where Phyllis Schlafly, who had worked with Goldwater, would be an important figure against the 70s womans movement.
+At the time, many hard-right groups supported Goldwater,and saw him as a symbol of their efforts for power, with even Robert Welch offering his support. Goldwater used then-current social issues such as the 1964 Civil Rights act, which he was opposed to, a huge talking point for him, and this would be copied by many others later on long after his death on many New Left issues such as feminism, where Phyllis Schlafly, who had worked with Goldwater, would be an important figure against the 70s womans movement.
  Schlafly believed the woman's movement was wrong for trying to achieve equality in America, believing that "The first requirement for the acquisition of power by the Positive Woman is to understand the differences between men and women."(Hyser, 563). 
 Similarly, George Wallace\'s popularity was owed to his focus on "red-meat appeals on identity and culture while outright rejecting conservative anti-statist orthodoxies."(Schlozman and Rosenfeld, 159).
  Wallace's actions brought populism to the Long New Right, which would use it to great effect.
