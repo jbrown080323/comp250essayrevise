@@ -1,0 +1,1 @@
+This is a revision of an old History paper I wrote back in 2025, where I talked about the rise of the modern day right wing movement in the United States. When I revised it, I mostly changed a few sentences, even rewrote some if it felt a little bit off when reading. For the citations, I mainly changed the style of the citations.
