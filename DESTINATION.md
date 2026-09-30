@@ -19,9 +19,9 @@ But it was the Presidential Campaign of Barry Goldwater during the mid 1960s tha
 The Long New Right began with Joseph McCarthy's attacks on supposed communists during the Second Red Scare, where McCarthy waged a vicious fight against supposed communists infiltrating the U.S." which was around the time William F. Buckley Jr was making his mark in history.
  Buckley had been a supporter of McCarthy's actions, along with L. Brent Bozell. 
 They both had coauthored various speeches for McCarthy, but amongst criticism of McCarthy's methods, they coauthored a book defending McCarthyism.
- The book, "McCarthy and His Enemies, offered a more full-throated case against McCarthy's critics than for McCarthy."(@schlozmanrosenfeld,2024,p 150).
+ The book, "McCarthy and His Enemies, offered a more full-throated case against McCarthy's critics than for McCarthy."(@schlozmanrosenfeld2024,p 150).
  Through this book, they argued that McCarthy's actions were beneficial for the United States, and felt that the critics were too harsh because of who McCarthy is. 
-Similarly, they sent criticism towards conservatives who were critical of McCarthyism as well, believing that conservatives should " 'close ranks' lest quibbles over means undermine the cause."[@schlozman,2024,p.150].
+Similarly, they sent criticism towards conservatives who were critical of McCarthyism as well, believing that conservatives should " 'close ranks' lest quibbles over means undermine the cause."[@schlozmanrosenfeld2024,p.150].
  After this, Buckley would go on to start the National Review, a conservative magazine which would go on to be an important figure in conservatism by the 21st century. Around the same time, the John Birch Society was founded by Robert Welch, who compared to Buckley, was even further right than him, as he would believe in multiple conspiracies involving communism, even believing that President Eisenhower was " a 'dedicated, conscious agent' of international communism,"(Schlozman and Rosenfeld, 151). 
 These paranoid beliefs were echoed by many, especially when New Left organizations managed to gain a victory, like the ruling of Brown v Board of Education, which desegregated the schools, and as a result, many anticommunists came out to fight against this.
 
