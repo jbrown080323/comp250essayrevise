@@ -25,7 +25,7 @@ They both had coauthored various speeches for McCarthy, but amongst criticism of
  Through this book, they argued that McCarthy's actions were beneficial for the United States, and felt that the critics were too harsh because of who McCarthy is. 
 Similarly, they sent criticism towards conservatives who were critical of McCarthyism as well, believing that conservatives should " 'close ranks' lest quibbles over means undermine the cause."[@schlozmanrosenfeld2024,p.150].
  After this, Buckley would go on to start the National Review, a conservative magazine which would go on to be an important figure in conservatism by the 21st century. Around the same time, the John Birch Society was founded by Robert Welch, who compared to Buckley, was even further right than him, as he would believe in multiple conspiracies involving communism, even believing that President Eisenhower was " a 'dedicated, conscious agent' of international communism,"[@schlozmanrosenfeld2024,p. 151]. 
-Many figures on the right would echo these beliefs, especially when New Left organizations managed to gain a victory like the ruling of Brown v Board of Education,which desegregated the schools in the 1950s, and as a result, many anti-communists came out to fight against this.
+Many figures on the right would echo these beliefs, especially when New Left organizations managed to gain victories at the time, like the ruling of Brown v Board of Education,which desegregated the schools in the 1950s, and as a result, many anti-communists came out to fight against this.
 
 # Part 2: The Second Generation 
 
