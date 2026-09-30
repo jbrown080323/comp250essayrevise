@@ -1,7 +1,8 @@
 [
 	{
-		"id": "http://zotero.org/users/local/Qr3klCSG/items/2DWVAQDZ",
+		"id": "hyzer2004",
 		"type": "book",
+		"citation-key": "hyzer2004",
 		"title": "Voices of the American Past: Documents in U.S. History",
 		"author": [
 			{
@@ -20,8 +21,9 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/Qr3klCSG/items/Z3XTPY5Z",
+		"id": "schlozmanrosenfeld2024",
 		"type": "book",
+		"citation-key": "schlozmanrosenfeld2024",
 		"number-of-pages": "448",
 		"title": "The Hollow Parties: The Many Pasts and Disordered Present of American Party Politics",
 		"author": [
