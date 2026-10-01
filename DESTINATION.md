@@ -29,7 +29,7 @@ Many figures on the right would echo these beliefs, especially when New Left org
 
 # Part 2: The Second Generation 
 
-With the paranoia becoming more widespread,conservatives would become further right with the rise of Barry Goldwater in the 1960s, signaling the beginnings of the Second Generation of the New Right. 
+With the 1950s paranoia becoming more widespread,conservatives would become further right with the rise of Barry Goldwater in the 1960s, signaling the beginnings of the Second Generation of the New Right. 
 Despite Goldwater losing both the 1960 and 1964 elections, it did not stop his hardline stance of both anti-civil rights and anti-organized labor. 
 Even long after his death, his popularity amongst the growing New Right brought "legions of activists who would power conservatism for decades,"[@schlozmanrosenfeld2024,p.153].
 At the time, many hard-right groups supported Goldwater,and saw him as a symbol of their efforts for power, with even Robert Welch offering his support. Goldwater used current social issues at the time such as the 1964 Civil Rights act which he opposed a huge talking point for him, and this would be copied by many others later on long after his death on many New Left issues such as feminism, where Phyllis Schlafly, who had worked with Goldwater, would be an important figure against the 70s womans movement.
@@ -40,10 +40,10 @@ These victories brought new methods for conservatives and their allies to contin
 
 # Part 3: The Third Generation
 
-The Third Generation is newer compared to the older generations, but it built upon the foundations made by previous generations to gain many victories, beginning in the late 1970s to the 1980s, where many politicians and New Right organizations like Fox News made a huge focus on television as a way to gain more support, as "for the Third Generation, media was king - and venality its besetting sin." [@schlozmanrosenfeld2024,p. 176].
- On the governmental side, The Long New Right was making use of a new strategy which aimed for achieving goals from outside instead of inside the political system through politicians like Newt Gingrich, where he believed that politics was more like a war, and that "Party mattered only if it would aid in that essential task."[@schlozmanrosenfeld2024,p.176].
- This was seen in George H.W Bush's administration, which many in the right like Gingrich did not support. 
-This was only increased after Bush's 1990 deal with Democrats to raise taxes, where Gingrich "made clear his disagreement not just with the substance but with the president's posture as a statesman above party."[@schlozmanrosenfeld2024,p. 177].
+The Third Generation is more recent compared to the older generations, but it built upon the foundations made by previous generations to gain many victories, beginning in the late 1970s to the 1980s, where many politicians and New Right organizations like Fox News made a huge focus on television as a way to gain more support, as "for the Third Generation, media was king - and venality its besetting sin." [@schlozmanrosenfeld2024,p. 176].
+ In the government, The Long New Right was making use of a new strategy which aimed for achieving goals from outside instead of inside the political system through politicians like Newt Gingrich, where he believed that politics was more like a war, and that "Party mattered only if it would aid in that essential task."[@schlozmanrosenfeld2024,p.176].
+As a result of this strategy, this led Republicans who supported policies the rest of the GOP didn't to be controversal, like George H.W Bush and his administration, which many in the right like Gingrich did not support. 
+Bush's controversal status in the Republican Party was only increased after Bush's 1990 deal with Democrats to raise taxes, where Gingrich "made clear his disagreement not just with the substance but with the president's posture as a statesman above party."[@schlozmanrosenfeld2024,p. 177].
  Despite this, after Bush lost to Clinton in the 90s, the New Right continued to gain victories in the 21st century like getting Donald Trump to win the presidential election twice largely through Trump " soft-pedaling the Court Conservatives' favorite nostrums while pushing right ward on the very fear of racial and cultural dispossession."[@schlozmanrosenfeld2024,p.180]. 
 By taking advantage of the foundations laid by the many before him, Trump managed to become the center of both the Republican party, and Republican voters.
 
